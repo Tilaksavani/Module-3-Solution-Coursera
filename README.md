@@ -1,4 +1,5 @@
-# Module 3 Solution
+# Module 3 Solution - HTML, CSS & JavaScript for Web Developers ([https://www.coursera.org/learn/html-css-javascript-for-web-developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers))
+
 
 This repository contains the solution for Module 3 of the "HTML, CSS, and JavaScript for Web Developers" course on Coursera. It demonstrates responsive web design (RWD) principles to create a website that adapts seamlessly across various screen sizes (desktop, tablet, mobile).
 
